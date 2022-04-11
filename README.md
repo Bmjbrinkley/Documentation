@@ -11,8 +11,4 @@ Below will be every resource I've used in homelabs and independent learning in g
 
 # References
 
-1.
-2.
-3.
-4.
-5.
+- Learn Windows PowerShell in a Month of Lunches. Retrieved from https://www.youtube.com/playlist?list=PL6D474E721138865A
