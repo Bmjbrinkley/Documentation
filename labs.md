@@ -33,4 +33,19 @@
     14. Press OK and return to the VM Manager.
     
 ##  Installing Windows Server 2019 Operating System
+    01. Double-click the DC VM, click the folder and browse for the ISO for Windows Server 2019, select it.
+    02. VirtualBox will start and Windows Server 2019 will begin installing. This may take some time.
+    03. Windows Setup will appear and ask: Language: English, Time and Currency Format: English, Keyboard: US
+    04. Press install now, select Windows Server 2019 Standard Evaluation (Desktop Experience)
+    05. Accept the license agreements, select Custom: Install Windows only (advanced)
+    06. Drive 0 Unallocated Space - This should be the drive selected for OS install. This process will take some time and the PC will restart several times.
+    07. Customize settings will appear. Username: Admin - Password: Password1
+    
+ ##  Installing VirtualBox Guest Additions   
+    01. In VM menu navigate to "Input" and select crtl+alt+del and enter your password.
+    02. The server will begin starting up for the first time.
+    03. In VM menu select "Devices" and choose: "Insert Guest Additions CD Image"
+    04. Go to File Explorer, This PC, you will see the Guest Additions CD,
+    
+    
     
