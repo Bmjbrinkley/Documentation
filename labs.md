@@ -3,7 +3,7 @@
 ## Requirements for Oracle VirtualBox
     https://www.virtualbox.org/wiki/End-user_documentation
     
-    Visit Oracles website for documentation on minimum to maximum specifications needed to run Oracle VirtualBox.
+    Visit Oracles website for documentation on the minimum and reccomended specifications needed to run Oracle VirtualBox.
     
 ## Downloads Needed:
     https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise
