@@ -38,8 +38,9 @@
     03. Windows Setup will appear and ask: Language: English, Time and Currency Format: English, Keyboard: US
     04. Press install now, select Windows Server 2019 Standard Evaluation (Desktop Experience)
     05. Accept the license agreements, select Custom: Install Windows only (advanced)
-    06. Drive 0 Unallocated Space - This should be the drive selected for OS install. This process will take some time and the PC will restart several times.
-    07. Customize settings will appear. Username: Admin - Password: Password1
+    06. Drive 0 Unallocated Space - This should be the drive selected for OS install. 
+    07. This process will take some time and the PC will restart several times.
+    08. Customize settings will appear. Username: Admin - Password: Password1
     
  ##  Installing VirtualBox Guest Additions   
     01. In VM menu navigate to "Input" and select crtl+alt+del and enter your password.
