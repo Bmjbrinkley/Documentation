@@ -1,5 +1,5 @@
 
-# Incident Response Plan
+# Healthcare Organization: Incident Response Plan
 
 ## Mission Statement
 We will treat each other with respect and dignity and do the same for all we serve. We will offer employees of all backgrounds a place to build careers. We will provide the most convenient access to healthcare services and consumer goods in America.
