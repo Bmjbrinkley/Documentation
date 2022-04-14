@@ -1,8 +1,8 @@
-# Homelabs: System Administration
+# Documentation for Homelabs & College Projects
 
-
-
-![Incident Response Project](https://github.com/Bmjbrinkley/documentation_labs/commit/7fc3dd7e95edf1ead5b28d23b6ed3474278a4cf2)
+[Homelab Project: Active Directory with Virtual Machines](https://github.com/Bmjbrinkley/documentation_labs/blob/main/ActiveDirectory_DC_VM_Environment.md)
+#
+[College Project: Incident Response and Recovery](https://github.com/Bmjbrinkley/documentation_labs/blob/main/TCC_Incident_Response_Final.md)
 
 
 
