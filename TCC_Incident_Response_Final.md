@@ -44,12 +44,13 @@ In order to stay clear of malicious attacks we must practice integrity in the wo
 ## Incident Response Metrics
 
 
-# ![](file:///C:/Users/Admin/Downloads/Untitled%20Diagram.drawio.png)
+![This is an image](https://svgshare.com/i/gHG.svg)
 
+#
 
 ## Roadmap Procedure
 
-![](file:///C:/Users/Admin/Downloads/roadmap.drawio.png)
+![This is an image](https://svgshare.com/i/gGz.svg)
 #
 
 ## How does this response align with our mission statement?
@@ -57,12 +58,3 @@ In order to stay clear of malicious attacks we must practice integrity in the wo
 By responding to natural disasters or malicious threats, we are standing by our values which include respect, career building and convenience. Without a solid response to incidents we could lose trust of our customers and employees. It’s imperative that we do our best to be accessible to communities located all over America. We can all do our part in following this Incident Response Plan in order to detect issues immediately or prevent them from happening in the first place. In the case of a response, we should do our best to follow the resources available within this document and use them to recover from any malicious attacks or natural disasters. By following the steps and using this document as a guide - you will have more success in alleviating the issue.
 
 #
-
-
-
-
-
-
-
-
-
