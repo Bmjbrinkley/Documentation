@@ -83,4 +83,16 @@
     02. Under "Deployment Configuration" select the "Add A New Forest" radio button and for "Root Domain Name" input "mydomain.com"
     03. At the "Domain Controller Options" screen, for the "DSRM" password use: "Password1 - continue through and select "Install"
     04. Agree to restart, you will now notice a different username - it should be: "MYDOMAIN\Administrator", login to the VM.
-    05. 
+
+## Creating the Dedicated Domain Administrator Account
+    01. Click the Windows icon and select Windows Administrative Tools > Active Directory Users and Computers
+    02. You should notice the domain you created on the left-panel: mydomain.com - right-click > Organizational Unit
+    03. Name: _ADMINS_
+    04. Since we're in a lab environment, we can uncheck the accidental deletion option.
+    05. Right-click _ADMINS_ and create a new user. Fill out the New-Object User form, Logon Name should be first initial and last name. 
+    06. For the password input: Password1 and uncheck changing password at the next logon and checkmark password never expires.
+    07. You will now notice the account you just made will now show up in _ADMINS_
+    08. Right-click the domain admin account and select properties, choose the MemberOf tab, select add, in the box below input: Domain Admins, apply it.
+  
+## Relogin with Domain Admin Account  
+    
