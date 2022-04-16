@@ -51,4 +51,16 @@
     05. Continue through the prompt and select the option to reboot now.
 
  ## Setup Server Network Adapters 
-    01. 
+    01. In VM menu navigate to "Input" and select crtl+alt+del and enter your password.
+    02. Select the Network icon in the bottom right corner of your screen, select network again.
+    03. Select "Change Adapter Options", rename Ethernet to _INTERNET_ and rename Ethernet 2 to X_INTERNAL_X
+    04. Right-click the start menu and select "System" choose "Rename this PC"
+    05. Rename the PC to: DC
+    06. Restart the PC and login to the PC.
+    07. Open "Change Adapter Options" and right-click X_INTERNAL_X and choose properties.
+    08. Double-click Internet Protocol Version 4 (TCP/IPv4)
+    09. Input the following:
+    10. IP Address: 176.16.0.1
+    11. Subnet Mask: 255.255.255.0
+    12. Preferred DNS Server: 127.0.0.1
+
