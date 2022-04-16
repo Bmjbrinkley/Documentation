@@ -60,9 +60,9 @@
     07. Open "Change Adapter Options" and right-click X_INTERNAL_X and choose properties.
     08. Double-click Internet Protocol Version 4 (TCP/IPv4)
     09. Input the following:
-    10. IP Address: 176.16.0.1
-    11. Subnet Mask: 255.255.255.0
-    12. Preferred DNS Server: 127.0.0.1
+    10.     IP Address: 176.16.0.1
+    11.     Subnet Mask: 255.255.255.0
+    12.     Preferred DNS Server: 127.0.0.1
     13. Press OK to apply the configuration.
     
  ## Install Active Directory Domain Services
