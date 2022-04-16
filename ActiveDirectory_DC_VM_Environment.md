@@ -1,5 +1,11 @@
 # Homelab: Creating a DC with AD on VM (in progress)
 
+## Lab Overview
+
+![This is an image](https://svgshare.com/i/gJb.svg)
+
+
+
 ## Requirements for Oracle VirtualBox
     https://www.virtualbox.org/wiki/End-user_documentation
     
