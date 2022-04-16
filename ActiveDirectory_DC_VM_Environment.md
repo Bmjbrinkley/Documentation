@@ -1,6 +1,6 @@
 # Homelab: Creating a DC with AD on VM (in progress)
 
-## Lab Overview
+## Network Diagram
 
 ![This is an image](https://svgshare.com/i/gJb.svg)
 
