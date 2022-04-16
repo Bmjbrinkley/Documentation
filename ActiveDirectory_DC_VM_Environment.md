@@ -50,7 +50,7 @@
     04. Go to File Explorer, This PC, you will see the Guest Additions CD and run "VBoxWindowsAdditions-amd64"
     05. Continue through the prompt and select the option to reboot now.
 
- ## Configure Server Network Adapters 
+ ## Configure Virtual Machine Server Network Adapters 
     01. In VM menu navigate to "Input" and select crtl+alt+del and enter your password.
     02. Select the Network icon in the bottom right corner of your screen, select network again.
     03. Select "Change Adapter Options", rename Ethernet to _INTERNET_ and rename Ethernet 2 to X_INTERNAL_X
