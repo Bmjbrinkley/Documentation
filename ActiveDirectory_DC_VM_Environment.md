@@ -63,4 +63,7 @@
     10. IP Address: 176.16.0.1
     11. Subnet Mask: 255.255.255.0
     12. Preferred DNS Server: 127.0.0.1
+    13. Press OK to apply the configuration.
+    
+ ## Install Active Directory Domain Services
 
