@@ -72,4 +72,15 @@
     13. Press OK to apply the configuration.
     
  ## Install Active Directory Domain Services
-
+    01. Open Sever Manager
+    02. On the Server Manager "Dashboard" select "Add Roles and Features"
+    03. Continue pressing next until you encounter "Select Destination Server" select "DC"
+    04. In "Select Server Roles" checkmark: "Active Directory Domain Services" and select "Add Features"
+    05. Choose the install button and wait until the installation has finished. This may take some time.
+    
+## Promote the Domain Controller
+    01. In the "Dashboard" you will notice a yellow flag - click on the flag and select "Promote This Server To A Domain Controller".
+    02. Under "Deployment Configuration" select the "Add A New Forest" radio button and for "Root Domain Name" input "mydomain.com"
+    03. At the "Domain Controller Options" screen, for the "DSRM" password use: "Password1 - continue through and select "Install"
+    04. Agree to restart, you will now notice a different username - it should be: "MYDOMAIN\Administrator", login to the VM.
+    05. 
