@@ -1,6 +1,6 @@
 
 # Healthcare Organization: Incident Response Plan
-
+    Note: This documentation is from a past final project during a project at TCC. This was slightly revised with updated graphics.
 ## Mission Statement
 We will treat each other with respect and dignity and do the same for all we serve. We will offer employees of all backgrounds a place to build careers. We will provide the most convenient access to healthcare services and consumer goods in America.
 ## Strategies & Goals
