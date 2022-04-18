@@ -1,4 +1,4 @@
-# Azure Active Directory Setup for Software Company
+# Azure Active Directory Setup for Software Company (in progress)
 > Free trial of Microsoft Azure AD: https://azure.microsoft.com/en-us/offers/ms-azr-0044p/
 ##
 
