@@ -1,1 +1,1 @@
-Check out my projects!
+> This GitHub repository was created for documentation and anything that pertains to learning the job of a System Administrator in Information Technology. I will be dabbling in areas that I believe are interesting or important to learn and document the process along the way.
